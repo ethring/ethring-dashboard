@@ -1,54 +1,70 @@
-# Ethring
+Ethring: DeFi Launchpad for Vaults
 
-Ethring LSDFi & DeFi Aggregator Platform that enables yield farming in just a few clicks. We help protocols increase TVL, attract new audiences, and solve liquidity fragmentation by providing a unified end-to-end interface for asset management in a single application. We’re a non-custodial platform, utilizing cross-chain solutions to find the best routes in the DeFi space through dozens of providers. Our uniqueness lies in flexibility and scalability, supporting the integration of smart contracts, networks, and various standards;
+Ethring is a DeFi launchpad for listing and managing yield strategies (vaults). We simplify launch, monitoring, and scaling of DeFi assets for users and protocols.
 
-## Use Cases
+⸻
 
-### DeFi Yield Generation (The Bag)
-- **Deposit into Yield Vaults** – Start earning yield in just a few clicks—seamlessly deposit assets into automated, high-efficiency vaults.
-- **Withdraw Yield Earnings** – Easily withdraw earned yields while maintaining full control over funds.
-- **Optimized Routing** – Automatically constructs the most efficient transaction path to maximize the output amount while minimizing fees and slippage
+🔹 What Ethring Does
+	•	For users: discover, compare, and start DeFi strategies in one click — no bridges, approvals, or complexity.
+	•	For protocols: list vaults and LP assets, manage distribution, analytics, and TVL without building your own frontend.
 
-### Earn & Yield Opportunities
-- **Explore Yield Opportunities** – Explore 150+ LP-assets, 15+ protocols, and 5 networks available for earning.
+⸻
 
-### Cross-Chain & In-Network Transactions
-- **Move Assets Between Networks** – Transfer assets seamlessly across different blockchains.
-- **Batch Multiple Actions** – Execute swaps, bridge, staking, and yield farming in a single transaction, reducing gas fees.
-- **Simulate Transactions** – Preview transactions before execution to optimize costs and avoid slippage.
-- **Bridge Liquidity Across Networks** – Efficiently move liquidity between Layer 1 and Layer 2 networks.
+🎯 Primary Focus — Strategy Listing
 
-### Dashboard
-- **Monitor Portfolio Performance** – Get a unified view of assets, yields, and historical performance.
-- **Update Balances** – Real-time updates of wallet and asset balances, reflecting all changes from transactions.
+Ethring is not just another aggregator. It’s an entry point where strategies get interface, visibility, and users:
+	•	Permissionless vault listing (ERC-20, ERC-4626, LP)
+	•	Contract verification (with Exponential risk support)
+	•	Display in Explorer and Dashboard
+	•	Automatic categorization and analytics
 
-### Market Data
-- **Fetch Live Asset Prices** – Access real-time price data from liquidity pools and AMMs.
-- **TVL & APR Monitoring** – Track Total Value Locked (TVL) and Annual Percentage Rate (APR) for optimal yield farming.
+Are you a vault curator? We’ve built the infrastructure for you.
 
-### Transaction Monitoring (Soon)
-- **Track Transactions in Real-Time** – Monitor wallet or contract movements as they happen.
-- **Track Liquidity Positions** – Keep an eye on liquidity positions and adjust strategies dynamically.
+⸻
 
-### Protocols & Explore (Soon)
-- **Discover & Integrate New DeFi Protocols** – Find new yield opportunities and innovative DeFi solutions. 
+🧩 User Value
+	•	One-click execution: launch a strategy without multiple steps (approve → swap → bridge → stake)
+	•	Cross-chain access: any asset, any network, no manual switching
+	•	Non-custodial: funds remain in underlying protocols
+	•	Dashboard: full portfolio view, rewards, and performance
+	•	Explorer: research protocols, trends, and metrics
 
-## Tech Stack
+⸻
 
-### Frontend
-- **Vue 3**: Used for building the user interface with a modern and reactive framework;
-- **Composition API**: Enables better organization and reusability of logic within components;
-- **Vuex**: State management for handling global application state and API data;
-- **Ant Design Vue**: Provides pre-built UI components like skeleton loaders, tooltips, and layout elements;
-- **SCSS**: For styling components with modular and maintainable CSS;
+🛠 Protocol/Curator Value
+	•	Ready-to-use frontend for your LP assets
+	•	Multi-standard support (ERC-20, ERC-4626, LP models)
+	•	Cross-chain distribution (Ethereum, Base, Arbitrum, BNB, Optimism)
+	•	Strategy-level analytics and yield tracking
+	•	SDK/integration adapter for fast onboarding
 
-## Main Parts Of Project
+⸻
 
-- **Core API**: is a main module for obtaining **network configurations and tokens** in various blockchains;
-- **Wallet adapter**: is a module for interacting with web 3 wallets in various ecosystems based on [Blocknative](https://onboard.blocknative.com/);
-- **Operation Bag**: is a module for interacting with transactions from a single location;
-- **Transaction Manager**: is a module for tracking transactions on the blockchain;
-- **Bridge Dex**: is a module for obtaining routes to perform a **bridge/dex** transaction;
+⚙ Platform Components
+	•	📊 Dashboard — manage and monitor LP assets
+	•	🔍 Explorer — strategy research, APR, TVL
+	•	🌉 Router — cross-chain and cross-protocol routing
+	•	⚖️ Risk Ratings — powered by Exponential
+	•	🔧 One-click executor — bundle actions into one transaction
+
+⸻
+
+🧭 Integration Guide (for protocols)
+	1.	Submit your vault via listing form
+	2.	Confirm contract & metadata
+	3.	Get frontend, explorer visibility, and TVL tracking
+
+📚 Docs: https://ethring.gitbook.io
+💻 GitHub SDK/API: https://github.com/ethring
+
+⸻
+
+🚀 Getting Started as a User
+	•	Visit ethring.io
+	•	Connect your wallet
+	•	Select a strategy → click “Deposit” → Done.
+
+⸻
 
 
 ## Setup
