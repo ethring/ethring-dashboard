@@ -36,7 +36,7 @@ Are you a vault curator? We’ve built the infrastructure for you.
 
 ---
 
-## 🛠 What Protocols/Curators Get
+## 🛠 What Protocols/Curators Get (soon)
 
 * 🧱 **Ready-to-use frontend** for vaults and LP strategies
 * 🔄 **Support for ERC-20, ERC-4626, LP standards**
