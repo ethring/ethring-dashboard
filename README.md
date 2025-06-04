@@ -1,70 +1,81 @@
-Ethring: DeFi Launchpad for Vaults
+# Ethring: DeFi Launchpad for Vaults
 
-Ethring is a DeFi launchpad for listing and managing yield strategies (vaults). We simplify launch, monitoring, and scaling of DeFi assets for users and protocols.
+**Ethring** is a DeFi launchpad for listing and managing yield strategies (vaults). We simplify launch, monitoring, and scaling of DeFi assets for users and protocols.
 
-⸻
+---
 
-🔹 What Ethring Does
-	•	For users: discover, compare, and start DeFi strategies in one click — no bridges, approvals, or complexity.
-	•	For protocols: list vaults and LP assets, manage distribution, analytics, and TVL without building your own frontend.
+## 🔹 What Ethring Does
 
-⸻
+* **For users**: Discover, compare, and launch DeFi strategies in one click — no bridges, approvals, or complexity.
+* **For protocols**: List vaults and LP assets, manage distribution, analytics, and TVL without building your own frontend.
 
-🎯 Primary Focus — Strategy Listing
+---
 
-Ethring is not just another aggregator. It’s an entry point where strategies get interface, visibility, and users:
-	•	Permissionless vault listing (ERC-20, ERC-4626, LP)
-	•	Contract verification (with Exponential risk support)
-	•	Display in Explorer and Dashboard
-	•	Automatic categorization and analytics
+## 🎯 Primary Focus — Strategy Listing
+
+Ethring is not just another aggregator. It’s an entry point where strategies gain interface, visibility, and user traction:
+
+* ✅ Permissionless vault listing (ERC-20, ERC-4626, LP tokens)
+* ✅ Smart contract verification (w/ Exponential risk data)
+* ✅ Automatic categorization and analytics
+* ✅ Display in Explorer and Dashboard
 
 Are you a vault curator? We’ve built the infrastructure for you.
 
-⸻
+📩 **Submit your vault here**: [https://ethring.fibery.io/@public/forms/aVgQHFkr](https://ethring.fibery.io/@public/forms/aVgQHFkr)
 
-🧩 User Value
-	•	One-click execution: launch a strategy without multiple steps (approve → swap → bridge → stake)
-	•	Cross-chain access: any asset, any network, no manual switching
-	•	Non-custodial: funds remain in underlying protocols
-	•	Dashboard: full portfolio view, rewards, and performance
-	•	Explorer: research protocols, trends, and metrics
+---
 
-⸻
+## 🧩 What Users Get
 
-🛠 Protocol/Curator Value
-	•	Ready-to-use frontend for your LP assets
-	•	Multi-standard support (ERC-20, ERC-4626, LP models)
-	•	Cross-chain distribution (Ethereum, Base, Arbitrum, BNB, Optimism)
-	•	Strategy-level analytics and yield tracking
-	•	SDK/integration adapter for fast onboarding
+* ⚡ **One-click execution**: Combine all actions (swap → bridge → stake) into a single transaction
+* 🌐 **Cross-chain access**: Use any asset across chains, no manual switching
+* 🔒 **Non-custodial**: Funds stay in original protocols
+* 📊 **Dashboard**: Track positions, rewards, and APY in one place
+* 🔍 **Explorer**: Discover strategies and compare performance
 
-⸻
+---
 
-⚙ Platform Components
-	•	📊 Dashboard — manage and monitor LP assets
-	•	🔍 Explorer — strategy research, APR, TVL
-	•	🌉 Router — cross-chain and cross-protocol routing
-	•	⚖️ Risk Ratings — powered by Exponential
-	•	🔧 One-click executor — bundle actions into one transaction
+## 🛠 What Protocols/Curators Get
 
-⸻
+* 🧱 **Ready-to-use frontend** for vaults and LP strategies
+* 🔄 **Support for ERC-20, ERC-4626, LP standards**
+* 🌉 **Cross-chain distribution**: Ethereum, Base, Arbitrum, BNB, Optimism
+* 📈 **Analytics and TVL tracking** per strategy
+* 🔌 **SDK & integration adapters** for fast onboarding
 
-🧭 Integration Guide (for protocols)
-	1.	Submit your vault via listing form
-	2.	Confirm contract & metadata
-	3.	Get frontend, explorer visibility, and TVL tracking
+---
 
-📚 Docs: https://ethring.gitbook.io
-💻 GitHub SDK/API: https://github.com/ethring
+## ⚙ Platform Components
 
-⸻
+| Component      | Function                                                  |
+| -------------- | --------------------------------------------------------- |
+| **Dashboard**  | Real-time overview of vaults, positions, rewards          |
+| **Explorer**   | Strategy discovery and protocol research                  |
+| **Router**     | Multi-step cross-chain transactions (bridge, swap, stake) |
+| **Risk Layer** | Strategy-level safety signals powered by Exponential      |
+| **Executor**   | Bundles all actions into a single smart transaction       |
 
-🚀 Getting Started as a User
-	•	Visit ethring.io
-	•	Connect your wallet
-	•	Select a strategy → click “Deposit” → Done.
+---
 
-⸻
+## 🧭 Integration Flow (For Protocols)
+
+1. Submit vault via [this form](https://ethring.fibery.io/@public/forms/aVgQHFkr)
+2. Verify contract metadata and logo
+3. Your strategy appears in Explorer, Dashboard, and Routing system
+
+📚 Docs: [https://ethring.gitbook.io](https://ethring.gitbook.io)
+💻 GitHub SDK/API: [https://github.com/ethring](https://github.com/ethring)
+
+---
+
+## 🚀 Getting Started (For Users)
+
+1. Go to [ethring.io](https://ethring.io)
+2. Connect your wallet
+3. Pick a strategy → Click `Deposit` → You’re in
+
+---
 
 
 ## Setup
